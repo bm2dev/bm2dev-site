@@ -1,8 +1,6 @@
 name: ⚙️ Build and Test App on pull request
 
 on:
-  push:
-    branches: ['master']
   pull_request:
     branches: ['master']
 
