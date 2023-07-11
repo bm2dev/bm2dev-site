@@ -1,3 +1,0 @@
-# bm2dev-site
-
-Em desenvolvimento... 
